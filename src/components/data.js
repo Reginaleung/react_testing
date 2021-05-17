@@ -48,4 +48,5 @@ class data extends Component {
         );
     }
 }
+
 export default data;
